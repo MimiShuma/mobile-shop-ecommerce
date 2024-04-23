@@ -1,0 +1,18 @@
+.body {
+    font-family: Amazon Ember, sans-serif;
+}
+
+.brand-logo {
+    width: 10rem;
+}
+
+.topbar {
+    background-color: #e9792d;
+}
+
+.topbar-text {
+    font-size: 0.8rem;
+    letter-spacing: .1rem;
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+}
